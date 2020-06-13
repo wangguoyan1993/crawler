@@ -1,0 +1,8 @@
+{
+  "name": "migao-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wangguoyan1993/crawler.git",
+  "author": "wangguoyan <2282940593@qq.com>",
+  "license": "MIT"
+}
